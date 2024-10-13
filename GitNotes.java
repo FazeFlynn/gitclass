@@ -18,3 +18,8 @@
 // 2. SERVER SIDE HOOKS - >>>>>>>> run on your remote repo 
 
 
+// Submodules works and facilitates a nested  repo, whick means a repo inside a repo
+//
+
+
+
