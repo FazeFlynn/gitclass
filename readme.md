@@ -1,6 +1,7 @@
 # Git Commands
 
 - `git rm --cached *.extension` : Removes all the files with specified extension.
+- `git remote set-url origin <new-remote-url>` : Updates the existing origin link of repo
 
 ```bash
 
